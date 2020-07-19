@@ -18,6 +18,11 @@ Project is created with:
 
 ## Setup
 To run this project, install it in Alexa Skills Console
+* start local server
+./ngrok http 3001
+* alexa console:
+change endpoint to https://0411d066d731.ngrok.io
 
-```
+
+
 
