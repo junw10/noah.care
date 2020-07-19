@@ -17,8 +17,7 @@ Project is created with:
 * NoSQL
 
 ## Setup
-To run this project, install it locally using npm:
+To run this project, install it in Alexa Skills Console
 
 ```
-$ npm install
-![Algorithm schema](./images/schema.jpg)
+
